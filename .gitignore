@@ -321,3 +321,7 @@ cython_debug/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,macos,jupyternotebooks
+
+# History files
+.Rhistory
+.Rapp.history
