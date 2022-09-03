@@ -18,6 +18,7 @@ ipython_config.py
 ### macOS ###
 # General
 .DS_Store
+module[0-9]/.DS_Store
 .AppleDouble
 .LSOverride
 
