@@ -26,11 +26,13 @@ module[0-9]/.DS_Store
 Icon
 
 # ottergrader
+*/.OTTER_LOG
 module[0-9]/[0-9]-hw/.OTTER_LOG
 module[0-9]/[0-9]-lab/.OTTER_LOG
 
 # slides
-module[0-9]/~$[0-9]-slides.pptx
+~$*
+*.pptx
 
 # Thumbnails
 ._*
