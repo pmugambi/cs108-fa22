@@ -1,0 +1,5 @@
+Lecture slides were not available in current-CS108 git repo so I obtained the slides from the Berkeley course git repo that was shared -- Data-8/materials-sp-20-share.
+
+For this module, based on the readings on the text (I obtained the required readings list from the cs108 website under modules tab), I created the module slides; 5-slides.pptx from slides in the Berkeley git repo for lectures 13, 14, 15, and 16.
+
+I used adobe and other online tools top convert pdfs to pptx for easy combination of files into one slide doc
