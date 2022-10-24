@@ -336,4 +336,4 @@ cython_debug/
 .Rapp.history
 
 # Private notes
-./module6/6-notes.txt
+/module6/6-notes.txt
