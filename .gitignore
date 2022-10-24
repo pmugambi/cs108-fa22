@@ -333,4 +333,4 @@ cython_debug/
 
 # History files
 .Rhistory
-.Rapp.history
+.Rapp.history./module6/6-notes.txt
