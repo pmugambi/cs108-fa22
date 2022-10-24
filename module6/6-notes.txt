@@ -1,1 +1,0 @@
-The lectures in the UCB repo "materials-sp20-share-master" that map to this module (chapters 11 and 12) are; 16, 17, 18, 19, 20, and 21
